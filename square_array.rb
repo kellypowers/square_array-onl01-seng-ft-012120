@@ -6,3 +6,9 @@ def square_array(array)
   end
   new_array
 end
+
+def square_array(array)
+  # your code here
+  array.collect 
+     i*i 
+end
