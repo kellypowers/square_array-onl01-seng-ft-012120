@@ -9,6 +9,6 @@ end
 
 def square_array(array)
   # your code here
-  array.collect 
+  array.collect do |i|
      i*i 
 end
