@@ -14,4 +14,4 @@ def square_array(array)
    end
 end
 array = [1, 2, 3, 4]
-square_array(array)
+puts square_array(array)
